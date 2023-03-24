@@ -77,20 +77,20 @@ conference:
       - name: Program
         relative_url: /program/
         disabled: true
-      - name: Talks
+      - name: Performances
         relative_url: /talks/
 #      - name: Performances
 #        relative_url: /performances/
-      - name: Speakers
+      - name: Tellers
         relative_url: /speakers/
 #      - name: Tellers
 #        relative_url: /tellers/
       - name: Location
         relative_url: /location/
-      - name: Register/Submit Abstract
-        #relative_url: /register/
-        absolute_url: 'https://docs.google.com/forms/d/e/1FAIpQLSeDlADcAg67SqH-oKPWU1LCDTU1WiNBEPfftLJnPFGz-oc_Ew/viewform?usp=sf_link'
-        disabled: false
+#      - name: Register/Submit Abstract
+#        #relative_url: /register/
+#        absolute_url: 'https://docs.google.com/forms/d/e/1FAIpQLSeDlADcAg67SqH-oKPWU1LCDTU1WiNBEPfftLJnPFGz-oc_Ew/viewform?usp=sf_link'
+#        disabled: false
 #      - name: Previous Editions
 #        menu:
 #          - name: 2023 (current)
@@ -114,11 +114,11 @@ conference:
       - name: Program
         relative_url: /program/
         disabled: true
-      - name: How to get there
+      - name: How to get here
         relative_url: /location/
-      - name: Register Here
+      - name: Tickets
         disabled: false
-        absolute_url: 'https://docs.google.com/forms/d/e/1FAIpQLSeDlADcAg67SqH-oKPWU1LCDTU1WiNBEPfftLJnPFGz-oc_Ew/viewform?usp=sf_link'
+        absolute_url: 'https://www.ticketsource.co.uk/somewhen-storytelling-festival'
 
 # Information boxes
   info_bars:
