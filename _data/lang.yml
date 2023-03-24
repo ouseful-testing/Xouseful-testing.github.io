@@ -33,19 +33,19 @@ en:
   location:
     rooms: Rooms
     directions: Directions
-    talks: Talks in this room
-    focus_conf: Center map on conference location
+    talks: Performancs in this venue
+    focus_conf: Center map on performance location
     focus_me: Show my current location
   program:
     title: Program
     legend: Caption
   speaker:
-    overview: Speakers
-    title: Speaker
-    talks: Talks at this conference
+    overview: Tellers
+    title: Teller
+    talks: Performances at this festival
   talk:
-    overview: Talks
-    title: Talk
+    overview: Performances
+    title: Performance
 
 de:
   pronoun:
