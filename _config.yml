@@ -146,7 +146,7 @@ conference:
   map:
     # Initial map center point
     default_zoom: 14
-    home_coord: 50.7051893, -1.2167519
+    home_coord: 50.7051893,-1.2167519
     map_provider: "OpenStreetMap.Mapnik"
     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
