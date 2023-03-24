@@ -5,4 +5,4 @@ links:
     absolute_url: https://tistales.org.uk
 ---
 
-Performance stroytelling troupe from the Isle of Wight.
+Performance storytelling troupe from the Isle of Wight.
