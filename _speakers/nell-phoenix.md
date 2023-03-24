@@ -5,6 +5,7 @@ last_name: Phoenix
 links:
   - name: Homepage
     absolute_url: http://nellphoenix.co.uk/
+hide: false
 ---
 
 Nell has been telling tales and performing professionally since graduating from Goldsmiths College, touring all around the world – from the Blackpool Grand to the Sydney Opera House; all over the UK, Ireland, Eastern and Western Europe, Australia and in all sorts of spaces and places in-between.

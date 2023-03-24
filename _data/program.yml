@@ -23,16 +23,16 @@ days:
 
   - name: Train Story
     talks:
-      - name: Local tellers 1
+      - name: Local Tellers 1
         time_start: '12:00'
         time_end: '12:15'
-      - name: Local tellers 2
+      - name: Local Tellers 2
         time_start: '12:30'
         time_end: '12:45'
-      - name: Local tellers 3
+      - name: Local Tellers 3
         time_start: '13:00'
         time_end: '13:15'
-      - name: Local tellers 4
+      - name: Local Tellers 4
         time_start: '13:30'
         time_end: '13:45'
 

@@ -3,7 +3,7 @@ name: Local Tellers 1
 speakers:
   - The Anonymous
 categories:
-  - Stroytelling
+  - Story shorts (15min)
 ---
 
 Pop-up tales from a local storyteller.
