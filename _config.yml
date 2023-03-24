@@ -1,7 +1,7 @@
 title: Somewhen Storytelling Festival, 2023
 preposition: at
 description: >-
-  Test page
+  A celebration of storytelling as living oral culture
 baseurl: "/Xouseful-testing.github.io" # the subpath of your site, e.g. /blog
 url: "https://ouseful-testing.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 github_username:  ouseful-testing
@@ -70,7 +70,7 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: QUB&Almac
+      name: SomewhenLogo
       img: 'VIBE2023_ribbon_tp_small.png'
       #url: 'https://digitale-gesellschaft.ch/'
     links:
@@ -78,9 +78,13 @@ conference:
         relative_url: /program/
         disabled: true
       - name: Talks
-        relative_url: /performances/
+        relative_url: /talks/
+#      - name: Performances
+#        relative_url: /performances/
       - name: Speakers
-        relative_url: /tellers/
+        relative_url: /speakers/
+#      - name: Tellers
+#        relative_url: /tellers/
       - name: Location
         relative_url: /location/
       - name: Register/Submit Abstract
