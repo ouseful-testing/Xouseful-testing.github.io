@@ -10,8 +10,8 @@ window.conference.awaitReady().then(() => {
         let iwsr_station = L.marker([50.7051893, -1.2167519], {
             icon: L.divIcon({
                 className: '',
-                html: '<span class="fas fa-train"></span> Isle of Wight Steam Railway',
-                iconSize: [240, 112]
+                html: '<span class="fas fa-university"></span> Somewhenever Festival',
+                iconSize: [480, 224]
             })
         }).addTo(map);
     }
