@@ -2,7 +2,7 @@
 layout: location
 ---
 
-The *Somwhen Storytelling Festival, 2023*, will take place at [Havenstreet Steam Railway](https://www.qub.ac.uk/events-at-queens/venues/isdell-courtyard/) ([Google Maps](https://goo.gl/maps/qEe3r3Ugrjo8TMwx7)).
+The *Somewhen Storytelling Festival, 2023*, will take place at [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk/), Havenstreet ([Google Maps](https://goo.gl/maps/HjeXqXxHpTARqzUQ6)).
 
 
 ## Transport Links:
