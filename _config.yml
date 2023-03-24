@@ -1,11 +1,11 @@
-title: VIBE Conference 2023
+title: Test Conference 2023
 preposition: at
 description: >-
-  Virtual Institute of Bioinformatics and Evolution, All-Ireland Conference 2023
+  Test page
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://VIBE2023.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-github_username:  VIBE2023
-timezone: Europe/Dublin
+url: "https://ouseful-testing.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+github_username:  ouseful-testing
+timezone: Europe/London
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference"
 
