@@ -71,7 +71,7 @@ conference:
   navigation:
     logo:
       name: SomewhenLogo
-      img: 'VIBE2023_ribbon_tp_small.png'
+      img: 'SOMEWHEN_LOGO_V2_small_transparent.png'
       #url: 'https://digitale-gesellschaft.ch/'
     links:
       - name: Program
