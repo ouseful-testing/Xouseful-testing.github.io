@@ -1,5 +1,5 @@
 ---
-name: 'Tis Tales
+name: \'Tis Tales
 links:
   - name: Profile
     absolute_url: https://tistales.org.uk
