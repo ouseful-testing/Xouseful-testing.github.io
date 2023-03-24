@@ -10,8 +10,7 @@ window.conference.awaitReady().then(() => {
         let iwsr_station = L.marker([50.7051893, -1.2167519], {
             icon: L.divIcon({
                 className: '',
-                html: '<span class="fas fa-university"></span> Somewhen Festival',
-                iconSize: [480, 224]
+                html: '<span class="fas fa-university"></span> Somewhen Festival'
             })
         }).addTo(map);
     }
