@@ -144,6 +144,7 @@ conference:
 #      pause:     10  # in seconds
 
   map:
+    enable: true
     # Initial map center point
     default_zoom: 14
     home_coord: 50.7051893,-1.2167519
