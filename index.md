@@ -13,8 +13,9 @@ The *Somewhen Storytelling Festival* is a two day, non-camping storytelling fest
 Stages include:
 
 - Event Barn (main stage)
-- Bookshop stage
-- Forest Stage
+- Library stage
+- Woodland Stage
+- *Train Story — popup stage featuring quick tales from local Island storytellers (free to all IW Steam railway visitors; no additional festival ticket required)*
 
 The festival will include headline storytelling performances, puppetry, local storytellers, a wide range of local speakers, live music, and "open mic" storytelling circles.
 

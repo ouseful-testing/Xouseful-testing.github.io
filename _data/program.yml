@@ -1,25 +1,63 @@
 days:
-- name: Monday
-  abbr: Mo
-  date: 2020-01-31
+- name: Saturday
+  abbr: Sat
+  date: 2023-06-03
   rooms:
-  - name: Room A
+  - name: Woodland
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
-        time_start: '12:00'
-        time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
-        time_start: '12:45'
+      - name: Island Tales
+        time_start: '16:00'
+        time_end: '17:00'
+
+  - name: Event Barn
+    talks:
+      - name: Nell Phoenix Headline
+        time_start: '20:00'
+        time_end: '21:00'
+
+  - name: Library
+    talks:
+      - name: Exporting from the Island to the London Underground
+        time_start: '13:00'
         time_end: '13:30'
 
-  - name: Room B
+  - name: Train Story
     talks:
-      - name: Arcu Non Odio
+      - name: Local tellers 1
         time_start: '12:00'
-        time_end: '13:00'
-
-  - name: Room C
-    talks:
-      - name: Eu Nisl Nunc Mi Ipsum Faucibus
+        time_end: '12:15'
+      - name: Local tellers 2
+        time_start: '12:30'
+        time_end: '12:45'
+      - name: Local tellers 3
+        time_start: '13:00'
+        time_end: '13:15'
+      - name: Local tellers 4
         time_start: '13:30'
-        time_end: '14:30'
+        time_end: '13:45'
+
+- name: Sunday
+  abbr: Sun
+  date: 2023-06-04
+  rooms:
+
+  - name: Library
+    talks:
+      - name: Ian Boyd Talk
+        time_start: '13:00'
+        time_end: '13:30'
+
+  - name: Train Story
+    talks:
+      - name: Island Storytellers 1
+        time_start: '12:00'
+        time_end: '12:15'
+      - name: Island Storytellers 2
+        time_start: '12:30'
+        time_end: '12:45'
+      - name: Island Storytellers 3
+        time_start: '13:00'
+        time_end: '13:15'
+      - name: Island Storytellers 4
+        time_start: '13:30'
+        time_end: '13:45'
