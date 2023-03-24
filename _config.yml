@@ -147,15 +147,15 @@ conference:
   talks:
     # Talk categories
     main_categories:
-      - name: Keynote
+      - name: Storytelling
         color: info 
-      - name: 10 minute
+      - name: Story shorts (15min)
         color: warning 
-      - name: Lightning (5min)
+      - name: Story circle
         color: success
-      - name: Poster Presentations
+      - name: Talk
         color: secondary
-      - name: Break
+      - name: Music
         color: dark
 
     # Hide icons on talk overview page
@@ -183,7 +183,7 @@ conference:
       #   - Thunderforest.Neighbourhood
       #   - Esri.WorldTopoMap
       map_provider: "OpenStreetMap.Mapnik"
-      default_zoom: 11
+      default_zoom: 13
  
   program:
     # URL of program page
