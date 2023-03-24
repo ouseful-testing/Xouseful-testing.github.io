@@ -1,4 +1,4 @@
-title: Test Conference 2023
+title: Somwhen Storytelling Fextival, 2023
 preposition: at
 description: >-
   Test page
@@ -77,22 +77,22 @@ conference:
       - name: Program
         relative_url: /program/
         disabled: true
-      #- name: Talks
-      #  relative_url: /talks/
-      #- name: Speakers
-      #  relative_url: /speakers/
+      - name: Talks
+        relative_url: /performances/
+      - name: Speakers
+        relative_url: /tellers/
       - name: Location
         relative_url: /location/
       - name: Register/Submit Abstract
         #relative_url: /register/
         absolute_url: 'https://docs.google.com/forms/d/e/1FAIpQLSeDlADcAg67SqH-oKPWU1LCDTU1WiNBEPfftLJnPFGz-oc_Ew/viewform?usp=sf_link'
         disabled: false
-      - name: Previous Editions
-        menu:
-          - name: 2023 (current)
-            disabled: true
-          - name: 2022
-            relative_url: https://vibe2022.github.io/
+#      - name: Previous Editions
+#        menu:
+#          - name: 2023 (current)
+#            disabled: true
+#          - name: 2022
+#            relative_url: https://vibe2022.github.io/
 
   # Link Preview for Sharing
   link_preview:
@@ -179,7 +179,7 @@ conference:
     # Main page title shown on location/room navigation bar
     navbar_title: 'Location'
     # Show map on location main page
-    map: false
+    map: true
 
   program:
     # URL of program page
