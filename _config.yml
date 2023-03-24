@@ -2,7 +2,7 @@ title: Test Conference 2023
 preposition: at
 description: >-
   Test page
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Xouseful-testing.github.io" # the subpath of your site, e.g. /blog
 url: "https://ouseful-testing.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 github_username:  ouseful-testing
 timezone: Europe/London
@@ -118,11 +118,11 @@ conference:
 
 # Information boxes
   info_bars:
-   - title: Registration now open!
+   - title: Now calling for volunteers
      color: primary
      main_only: false
      text: |
-       We are now accepting abstracts for talks and posters. Deadline for submission: 14th April 2023.
+       If you would like to volunteer to help run the festival, please email volunteers@tistales.org.uk
 
   # Live indications
 #  live:
@@ -142,7 +142,7 @@ conference:
   map:
     # Initial map center point
     default_zoom: 17
-    home_coord: 54.57646, -5.93488
+    home_coord: 50.7051893, -1.2167519
     map_provider: "OpenStreetMap.Mapnik"
     # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
