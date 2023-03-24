@@ -9,4 +9,4 @@ links:
 
 Performance storytelling troupe from the Isle of Wight.
 
-<img src="../assets/images/tis_tales_group_photo.png" width=400 />
+<img src="../../assets/images/tis_tales_group_photo.png" width=400 />
