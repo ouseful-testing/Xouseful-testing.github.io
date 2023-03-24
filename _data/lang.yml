@@ -31,9 +31,9 @@ en:
       soon: soon
       now: now
   location:
-    rooms: Rooms
+    rooms: Stages
     directions: Directions
-    talks: Performancs in this venue
+    talks: Performances in this venue
     focus_conf: Center map on performance location
     focus_me: Show my current location
   program:
