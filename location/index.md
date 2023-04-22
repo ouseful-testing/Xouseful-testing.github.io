@@ -8,7 +8,7 @@ The *Somewhen Storytelling Festival, 2023*, will take place at [Isle of Wight St
 
 ## Site Map
 
-<img src="../assets/images/iw_steam_railway_map.jpg" />
+<img src="../assets/images/iw_steam_railway_map_compressed.jpg" />
 
 ## Transport Links:
 
