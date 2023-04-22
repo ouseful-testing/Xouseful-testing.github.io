@@ -6,7 +6,7 @@ layout: home
 <a href="https://www.ticketsource.co.uk/somewhen-storytelling-festival"><img src="assets/images/Island_Storytellers_A4_poster_2023_v2_compressed_no_sponsors.png" alt="Poster" /></a>
 </div>
 
-- *Location*: Isle of Wight Steam Railway, Havenstreet, Isle of Wight, UK
+- *Location*: [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk/), Havenstreet, Isle of Wight, UK
 - *Date:* 3rd-4th June 2023 
 - *Time:* 10:00am - late
 
