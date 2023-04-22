@@ -4,6 +4,11 @@ layout: location
 
 The *Somewhen Storytelling Festival, 2023*, will take place at [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk/), Havenstreet ([Google Maps](https://goo.gl/maps/HjeXqXxHpTARqzUQ6)).
 
+<a href="https://iwsteamrailway.co.uk/"><img height="70" src="../assets/images/iw_steam_railway_logo.jpg" /></a>
+
+## Site Map
+
+<img src="../assets/images/iw_steam_railway_map.jpg" />
 
 ## Transport Links:
 
