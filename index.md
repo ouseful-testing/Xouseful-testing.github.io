@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div style="text-align: center;">
+<div style="text-align: center; margin: 35px;" >
 <a href="https://www.ticketsource.co.uk/somewhen-storytelling-festival"><img src="assets/images/Island_Storytellers_A4_poster_2023_v2_compressed_no_sponsors.png" alt="Poster" /></a>
 </div>
 
@@ -10,8 +10,8 @@ layout: home
 - *Date:* 6-7th June 2023 
 - *Time:* 10:00am - late
 
-<div style="text-align: center;"><strong>
-<a href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">BUY TICKETS HERE</a></strong></div>
+<div style="text-align: center; margin: 35px; padding: 35px;" ><strong>
+<a style="padding:15px; border: 15px solid green;" href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">BUY TICKETS HERE</a></strong></div>
 
 The *Somewhen Storytelling Festival* is a two day, non-camping storytelling festival running several stages at the Havenstreet Steam Railway, Isle of Wight, on the first weekend in June, 2023.
 
