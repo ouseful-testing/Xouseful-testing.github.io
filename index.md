@@ -28,6 +28,8 @@ The full festival program will be made available in due course.
 
 *Somewhen Festival is the first in a planned year long series of storytelling events on the Isle of Wight organised by the Island Storytellers.*
 
+Facebook: [SomewhenStorytellingFestival](https://www.facebook.com/SomewhenStorytellingFestival)
+
 <hr/>
 
 <img height="70" src="assets/images/iw_steam_railway_logo_square.png">
