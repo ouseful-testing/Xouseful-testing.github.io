@@ -7,7 +7,7 @@ layout: home
 </div>
 
 - *Location*: Isle of Wight Steam Railway, Havenstreet, Isle of Wight, UK
-- *Date:* 6-7th June 2023 
+- *Date:* 3rd-4th June 2023 
 - *Time:* 10:00am - late
 
 <div style="text-align: center; margin: 35px; padding: 35px;" ><strong>
