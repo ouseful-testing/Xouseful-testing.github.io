@@ -5,6 +5,12 @@ days:
   rooms:
   - name: Woodland
     talks:
+      - name: Story Challenge (Adults)
+        time_start: '10:30'
+        time_end: '11:15'
+      - name: Story Walk with Sue
+        time_start: '12:15'
+        time_end: '13:15'    
       - name: Island Tales
         time_start: '16:00'
         time_end: '17:00'
@@ -17,9 +23,18 @@ days:
       - name: Verging On Nonsense
         time_start: '12:45'
         time_end: '13:45'
+      - name: Art and Rick
+        time_start: '14:30'
+        time_end: '15:00'   
       - name: Ghost Tales of the Isle of Wight
         time_start: '15:30'
         time_end: '16:15'       
+      - name: Art and Rick
+        time_start: '16:30'
+        time_end: '17:00'
+      - name: Second Time Around
+        time_start: '18:00'
+        time_end: '19:00'            
       - name: Nell Phoenix Headline
         time_start: '19:00'
         time_end: '21:00'
@@ -33,12 +48,14 @@ days:
         time_start: '12:15'
         time_end: '12:45'
       - name: Dragon Tales
-        time_start: '14:00'
-        time_end: '15:00'
+        time_start: '14:15'
+        time_end: '15:15'
       - name: Shadow Puppet Drop-in Workshop
-        time_start: '15:15'
-        time_end: '16:45'       
-
+        time_start: '15:45'
+        time_end: '17:00'       
+      - name: Story Round
+        time_start: '17:30'
+        time_end: '18:30'
   - name: Train Story
     talks:
       - name: Local Tellers 1
@@ -62,6 +79,9 @@ days:
       - name: Rainbow Sailors
         time_start: '14.00'
         time_end: '14.45'
+      - name: Firepit Storyround
+        time_start: '21.00'
+        time_end: '22.00'       
 
 - name: Sunday
   abbr: Sun
@@ -73,13 +93,30 @@ days:
       - name: Knights
         time_start: '10:30'
         time_end: '11:15'
+      - name: Story Walk with Holly
+        time_start: '15:30'
+        time_end: '16:30'   
 
   - name: Event Barn
     talks:
       - name: The Book-Ends
         time_start: '12:00'
         time_end: '12:30'
-
+      - name: She Shells
+        time_start: '12:30'
+        time_end: '13:00'
+      - name: Nell Phoenix Family Set
+        time_start: '14:00'
+        time_end: '15:00'  
+      - name: She Shells
+        time_start: '15:30'
+        time_end: '16:00'      
+      - name: Grimm Tales
+        time_start: '17:30'
+        time_end: '18:30' 
+      - name: Ceilidh Finale
+        time_start: '19:00'
+        time_end: '21:30'
   - name: Library
     talks:
       - name: Ian Boyd Talk

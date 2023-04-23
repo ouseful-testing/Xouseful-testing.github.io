@@ -32,4 +32,4 @@ Facebook: [SomewhenStorytellingFestival](https://www.facebook.com/SomewhenStoryt
 
 <hr/>
 
-<img height="70" src="assets/images/iw_steam_railway_logo_square.png">
+<img height="40" src="assets/images/arts_council_supported_black.png"> <img height="40" src="assets/images/iw_steam_railway_logo_square.png">
