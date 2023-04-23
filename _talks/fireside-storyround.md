@@ -1,5 +1,5 @@
 ---
-name: Firepit Storyround
+name: Fireside Storyround
 speakers:
   - Island Storytellers
 categories:

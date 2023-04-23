@@ -1,5 +1,5 @@
 ---
-name: She Shells 1
+name: She Shells
 speakers:
   - She Shells
 categories:

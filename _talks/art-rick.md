@@ -1,5 +1,5 @@
 ---
-name: Art & Rick (duo)
+name: Art and Rick Duo
 speakers:
   - Art and Rick
 categories:
