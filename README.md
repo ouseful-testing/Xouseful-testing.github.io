@@ -166,6 +166,17 @@ There exists a Python file in this repository, `_tools/create_entries.py`, which
 
 ### Automatic Build
 
+To serve locally:
+
+```bash
+# gem install jekyll bundler
+
+cd JEKYLL_SITE
+# bundle install
+bundle exec jekyll serve
+
+```
+
 In case you do not want to install the entire Ruby/Jekyll toolchain on your machine you can make use of [GitHub Actions](https://github.com/features/actions), Github's continuous integration platform. This repository contains multiple example Github Action configuration files in the `_tools/` folder:
 
 - `build.yml`: automatically builds and minimizes the website upon adding a new tag starting with a `v` (e.g. `v2020.01.01`). It then attaches the generated website as an archive to a release for easy downloading. Requires `purgecss.config.js` to be copied to the project's root too.

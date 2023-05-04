@@ -31,12 +31,18 @@ days:
       - name: Three Suitcases Walkabout
         time_start: '11:00'
         time_end: '11:40'
-      - name: Rainbow Sailors
+      - name: Rainbow Sailors Walkabout
         time_start: '14:15'
         time_end: '15:00'
       - name: Fireside Storyround
         time_start: '21:00'
         time_end: '22:00'
+      - name: Haven Falconry
+        time_start: '11:40'
+        time_end: '12:20'
+      - name: Haven Falconry
+        time_start: '13:40'
+        time_end: '14:20'
   - name: Woodland
     talks:
       - name: Story Challenge (Adults)
@@ -106,9 +112,15 @@ days:
         time_end: '21:30'
   - name: Outside
     talks:
-      - name: Knights
+      - name: Knights Walkabout
         time_start: '10:30'
         time_end: '11:15'
+      - name: Haven Falconry
+        time_start: '11:40'
+        time_end: '12:20'
+      - name: Haven Falconry
+        time_start: '13:40'
+        time_end: '14:20'
   - name: Woodland
     talks:
       - name: Red Riding Hood and Goldilocks
