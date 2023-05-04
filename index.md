@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div style="text-align: center; margin: 35px;" >
-<a href="https://www.ticketsource.co.uk/somewhen-storytelling-festival"><img src="assets/images/Island_Storytellers_A4_poster_2023_v2_compressed_no_sponsors.png" alt="Poster" /></a>
+<a href="https://www.ticketsource.co.uk/somewhen-storytelling-festival"><img src="assets/images/Island_Storytellers_A4_poster_2023_FINAL_compressed.png" alt="Poster" /></a>
 </div>
 
 - *Location*: [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk/), Havenstreet, Isle of Wight, UK
