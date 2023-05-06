@@ -76,7 +76,7 @@ conference:
     links:
       - name: Program
         relative_url: /program/
-        disabled: true
+        disabled: false
       - name: Performances
         relative_url: /talks/
 #      - name: Performances
