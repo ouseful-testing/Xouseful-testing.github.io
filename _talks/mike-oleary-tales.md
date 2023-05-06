@@ -3,7 +3,7 @@ name: Mike O'Leary Tales
 speakers:
   - Mike O'Leary
 categories:
-  - Stroytelling
+  - Storytelling
 hide: false
 ---
 

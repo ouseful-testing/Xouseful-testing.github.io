@@ -3,7 +3,7 @@ name: Ghost Tales of the Isle of Wight
 speakers:
   - Marc Tuckey
 categories:
-  - Talk
+  - Storytelling
 hide: false
 ---
 

@@ -1,9 +1,9 @@
 ---
 name: Island Storytellers 1
 speakers:
-  - The Anonymous
+  - Island Pop-up Storytellers
 categories:
   - Story shorts (15min)
 ---
 
-Pop-up tales from the Island Storytellers.
+Pop-up tales from one the Island Storytellers: Ruth Lockyer

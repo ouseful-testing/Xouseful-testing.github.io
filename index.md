@@ -15,6 +15,10 @@ layout: home
 
 The *Somewhen Storytelling Festival* is a two day, non-camping storytelling festival running several stages at the Havenstreet Steam Railway, Isle of Wight, on the first weekend in June, 2023.
 
+<div class="sw-center-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lD6oI9-ykDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 Stages include:
 
 - Event Barn (main stage)
@@ -32,4 +36,8 @@ Facebook: [SomewhenStorytellingFestival](https://www.facebook.com/SomewhenStoryt
 
 <hr/>
 
-<img height="40" src="assets/images/arts_council_supported_black.png"> <img height="40" src="assets/images/iw_steam_railway_logo_square.png">
+<div class="sw-img-container">
+    <img width="80%" src="assets/images/arts_council_supported_black.png" />
+    <img width="20%" src="assets/images/iw_steam_railway_logo_square.png" />
+</div>
+

@@ -1,7 +1,7 @@
 ---
 name: Island Storytellers 3
 speakers:
-  - The Anonymous
+  - Island Pop-up Storytellers
 categories:
   - Story shorts (15min)
 ---

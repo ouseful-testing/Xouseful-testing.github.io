@@ -1,0 +1,27 @@
+.sw-center-container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.sw-img-container {
+    display: flex;
+    align-items: stretch; /* make the images fill the available height */
+    justify-content: space-between;
+    margin-bottom: 20px; /* add a small margin between the images and the next element */
+    overflow: visible !important; /* override the overflow property */
+    clip: auto !important; /* override the clip property */
+}
+
+.sw-img-container img {
+    object-fit: contain;
+    flex-basis: 0; /* set the initial width to 0 to allow the width to be determined by the image aspect ratio */
+    flex-grow: 1; /* allow the images to grow to fill the available space */
+    margin-right: calc(10px + ((100% - 20px) / 2 - (100% - 20px) / 2 * (100% - 20px) / 2 / ((100% - 20px) / 2 + (100% - 20px) / 2 + 10px))); /* calculate the margin based on the width of the images */
+}
+
+.sw-img-container img:last-child {
+    margin-right: 0; /* remove the gap after the last image */
+}

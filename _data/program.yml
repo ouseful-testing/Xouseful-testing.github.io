@@ -5,34 +5,43 @@ days:
   rooms:
   - name: Event Barn
     talks:
+      - name: Tales of Welcome
+        time_start: '10:30'
+        time_end: '11:30'
       - name: Three Suitcases
-        time_start: '12:00'
-        time_end: '12:30'
+        time_start: '12:15'
+        time_end: '12:45'
       - name: Verging On Nonsense
         time_start: '12:45'
         time_end: '13:45'
+      - name: Joe Plumb - Island Celebrity
+        time_start: '14:00'
+        time_end: '14:45'
       - name: Art and Rick Duo
-        time_start: '14:30'
-        time_end: '15:00'
+        time_start: '14:50'
+        time_end: '15:10'
       - name: Ghost Tales of the Isle of Wight
-        time_start: '15:30'
-        time_end: '16:15'
-      - name: Art and Rick Duo
-        time_start: '16:30'
-        time_end: '17:00'
+        time_start: '15:15'
+        time_end: '16:00'
+      - name: Island Tales
+        time_start: '16:15'
+        time_end: '17:15'
       - name: Second Time Around
-        time_start: '18:00'
-        time_end: '19:00'
+        time_start: '17:30'
+        time_end: '18:15'
       - name: Nell Phoenix Headline
-        time_start: '19:00'
-        time_end: '21:00'
+        time_start: '18:30'
+        time_end: '19:30'
+      - name: Ceilidh
+        time_start: '19:45'
+        time_end: '21:30'
   - name: Outside
     talks:
       - name: Three Suitcases Walkabout
         time_start: '11:00'
         time_end: '11:40'
       - name: Rainbow Sailors Walkabout
-        time_start: '14:15'
+        time_start: '14:20'
         time_end: '15:00'
       - name: Fireside Storyround
         time_start: '21:00'
@@ -43,22 +52,8 @@ days:
       - name: Haven Falconry
         time_start: '13:40'
         time_end: '14:20'
-  - name: Woodland
-    talks:
-      - name: Story Challenge (Adults)
-        time_start: '10:30'
-        time_end: '11:15'
-      - name: Story Walk with Sue
-        time_start: '12:15'
-        time_end: '13:15'
-      - name: Island Tales
-        time_start: '16:00'
-        time_end: '17:00'
   - name: Library
     talks:
-      - name: Exporting from the Island to the London Underground
-        time_start: '11:00'
-        time_end: '11:30'
       - name: Tell me about poo
         time_start: '12:15'
         time_end: '12:45'
@@ -71,80 +66,141 @@ days:
       - name: Story Round
         time_start: '17:30'
         time_end: '18:30'
+  - name: Woodland
+    talks:
+      - name: Story Challenge Universal
+        time_start: '13:30'
+        time_end: '14:30'
+      - name: Arty Tales
+        time_start: '14:45'
+        time_end: '15:30'
   - name: Train Story
     talks:
-      - name: Local Tellers 1
+      - name: Island Storytellers
         time_start: '12:00'
         time_end: '12:15'
-      - name: Local Tellers 2
+      - name: Island Storytellers
         time_start: '12:30'
         time_end: '12:45'
-      - name: Local Tellers 3
+      - name: Island Storytellers
         time_start: '13:00'
         time_end: '13:15'
-      - name: Local Tellers 4
+      - name: Island Storytellers
         time_start: '13:30'
         time_end: '13:45'
-
+      - name: Island Storytellers
+        time_start: '14:00'
+        time_end: '14:15'
+      - name: Island Storytellers
+        time_start: '14:30'
+        time_end: '14:45'
 - name: Sunday
   abbr: Sun
   date: 2023-06-04
   rooms:
   - name: Event Barn
     talks:
-      - name: The Book-Ends
+      - name: Ukelele Band
+        time_start: '10:30'
+        time_end: '11:00'
+      - name: Red Riding Hood and Goldilocks
         time_start: '12:00'
-        time_end: '12:30'
+        time_end: '12:45'
       - name: She Shells
-        time_start: '12:30'
-        time_end: '13:00'
+        time_start: '12:50'
+        time_end: '13:15'
+      - name: The Book-Ends
+        time_start: '13:30'
+        time_end: '14:00'
       - name: Nell Phoenix Family Set
-        time_start: '14:00'
-        time_end: '15:00'  
+        time_start: '14:15'
+        time_end: '15:15'
       - name: She Shells
         time_start: '15:30'
-        time_end: '16:00'      
+        time_end: '16:00'
+      - name: Mike O'Leary Tales
+        time_start: '16:15'
+        time_end: '17:00'
+      - name: Farewell Tales
+        time_start: '17:00'
+        time_end: '17:45'
+  - name: Woodland
+    talks:
+      - name: Three Crones
+        time_start: '11:00'
+        time_end: '11:30'
       - name: Grimm Tales
-        time_start: '17:30'
-        time_end: '18:30' 
-      - name: Ceilidh
-        time_start: '19:00'
-        time_end: '21:30'
+        time_start: '12:00'
+        time_end: '12:45'
+      - name: Ian Tovey
+        time_start: '12:50'
+        time_end: '13:20'
+      - name: Greg Chapman
+        time_start: '13:30'
+        time_end: '14:00'
+      - name: Story Walk with Sue
+        time_start: '15:30'
+        time_end: '16:00'
+  - name: Library
+    talks:
+      - name: Beginners Storytelling Workshop
+        time_start: '10:45'
+        time_end: '11:45'
+      - name: Level Land Larder
+        time_start: '12:00'
+        time_end: '12:15'  
+      - name: Exporting from the Island to the London Underground
+        time_start: '13:00'
+        time_end: '13:30'
+      - name: Heritage Talk
+        time_start: '14:15'
+        time_end: '14:45'
+      - name: Island Folklore
+        time_start: '15:00'
+        time_end: '15:30'
+      - name: Ian Boyd Talk
+        time_start: '16:00'
+        time_end: '16:30'
   - name: Outside
     talks:
       - name: Knights Walkabout
-        time_start: '10:30'
-        time_end: '11:15'
+        time_start: '10:45'
+        time_end: '11:30'
       - name: Haven Falconry
         time_start: '11:40'
         time_end: '12:20'
+      - name: Morris Dance
+        time_start: '13:00'
+        time_end: '13:30'
       - name: Haven Falconry
         time_start: '13:40'
         time_end: '14:20'
-  - name: Woodland
-    talks:
-      - name: Red Riding Hood and Goldilocks
-        time_start: '13:00'
-        time_end: '13:45'
-      - name: Story Walk with Holly
-        time_start: '15:30'
-        time_end: '16:30'   
-  - name: Library
-    talks:
-      - name: Ian Boyd Talk
-        time_start: '13:00'
-        time_end: '13:30'
+      - name: Close-up Magic Walkabout
+        time_start: '15:00'
+        time_end: '15:30'
   - name: Train Story
     talks:
-      - name: Island Storytellers 1
+      - name: Island Storytellers
         time_start: '12:00'
         time_end: '12:15'
-      - name: Island Storytellers 2
+      - name: Island Storytellers
         time_start: '12:30'
         time_end: '12:45'
-      - name: Island Storytellers 3
+      - name: Island Storytellers
         time_start: '13:00'
         time_end: '13:15'
-      - name: Island Storytellers 4
+      - name: Island Storytellers
         time_start: '13:30'
         time_end: '13:45'
+      - name: Island Storytellers
+        time_start: '14:00'
+        time_end: '14:15'
+      - name: Island Storytellers
+        time_start: '14:30'
+        time_end: '14:45'
+      - name: Island Storytellers
+        time_start: '15:00'
+        time_end: '15:15'
+      - name: Island Storytellers
+        time_start: '15:30'
+        time_end: '15:45'
