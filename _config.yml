@@ -156,6 +156,12 @@ conference:
       - name: Talk
         color: secondary
       - name: Music
+        color: danger
+      - name: Other attraction
+        color: danger
+      - name: Walkabout
+        color: warning
+      - name: Workshop
         color: dark
 
     # Hide icons on talk overview page
