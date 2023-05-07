@@ -1,7 +1,7 @@
 ---
-name: Three Crones
+name: Triple Crones
 first_name: 
-last_name: Three Crones
+last_name: Triple Crones
 
 ---
 

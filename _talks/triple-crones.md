@@ -1,7 +1,7 @@
 ---
-name: Three Crones
+name: Triple Crones
 speakers:
-  - Three Crones
+  - Tripe Crones
 categories:
   - Performance
 ---
