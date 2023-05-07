@@ -18,6 +18,8 @@ The theme was originally created for the yearly Winterkongress conference of the
 - [Demo: Winterkongress](https://digitale-gesellschaft.ch/kongress/)
 
 
+[Local testing with dynamic rebuild on changes: `bundle exec jekyll serve --livereload` ]
+
 ## Table of Contents
 
 - [Installation](#installation)
