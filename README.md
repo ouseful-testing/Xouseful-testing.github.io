@@ -2,6 +2,8 @@
 
 ![Screenshot](screenshot.png)
 
+*Forked from https://github.com/VIBE2023/VIBE2023.github.io**
+
 This is a responsive [Jekyll](http://jekyllrb.com) theme based on [Bootstrap 4](http://getbootstrap.com) for conferences. It contains
 
 - multiday program / schedule,
