@@ -31,6 +31,12 @@ Stages include:
 - Woodland Stage
 - *Train Story — popup stage featuring quick tales from local Island storytellers (free to all IW Steam railway visitors; no additional festival ticket required)*
 
+__Saturday schedule runs over two sessions: 10am-5pm (day) and 5pm-9.30pm__. The <em>Saturday day programme</em> includes a rich and varied programme featuring storyteller, shadow puppetry, costumed story theatre, local interest talks and music. The <em>Saturday evening programme</em> includes a headline performance from Nell Phoenix, music from Second Time Around, a barn Dance/Ceilidh, (with music from the Caulkheads) and fireside tales.
+
+__Sunday schedule runs 10am-6pm__, with the <em>Sunday day programme</em> featuring stories, talks, costumed story theatre, workshops, music and a family friendly matinee headline performance from Nell Phoenix.
+
+<div class="sw-ticket-links-container"><a class="sw-ticket-link" href="program/">DRAFT PROGRAMME AVAILABLE HERE <em>(SUBJECT TO CHANGE)</em></a></div>
+
 The festival will include headline storytelling performances, puppetry, local storytellers, a wide range of local speakers, live music, and "open mic" storytelling circles.
 
 <div style="text-align: center;">
