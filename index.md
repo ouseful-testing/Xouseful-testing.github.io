@@ -47,15 +47,15 @@ The festival will include headline storytelling performances, puppetry, local st
         <tbody>
             <tr>
             <td>Saturday</td>
-            <td>Day and Evening (10am-9:30pm): £20<br>Evening: £10</td>
+            <td>Day and Evening (10am-9:30pm): £20<br>Evening (5pm-9.30pm): £10</td>
             <td>Day: 10am-5pm: £10</td>
             <td>Day: 10am-5pm: £50</td>
             </tr>
             <tr>
             <td>Sunday</td>
-            <td>Day and Evening (10am-5pm): £20</td>
-            <td>Day: 10am-5pm: £10</td>
-            <td>Day: 10am-5pm: £50</td>
+            <td>Day (10am-6pm): £20</td>
+            <td>Day: 10am-6pm: £10</td>
+            <td>Day: 10am-6pm: £50</td>
             </tr>
             <tr>
             <td>Weekend</td>
