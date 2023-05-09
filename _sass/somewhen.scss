@@ -3,6 +3,7 @@
     text-align: center;
     justify-content: center;
     align-items: center;
+    margin: 20px;
     //height: 100vh;
 }
 
@@ -25,3 +26,40 @@
 .sw-img-container img:last-child {
     margin-right: 0; /* remove the gap after the last image */
 }
+
+.sw-tickets-table {
+    border-collapse: collapse;
+    border: 3px solid rgb(10, 114, 83);
+    margin: 0 auto;
+  }
+  
+  .sw-tickets-table th, 
+  .sw-tickets-table td {
+    border: 1px solid rgb(38, 174, 106);
+    padding: 8px;
+  }
+  
+  .sw-tickets-table th {
+    border-bottom: 2px solid rgb(27, 150, 91);
+  }
+
+  .sw-ticket-links-container {
+    text-align: center;
+    margin: 35px;
+  }
+
+  .sw-ticket-link {
+    display: inline-block;
+    padding: 15px;
+    border: 15px solid green;
+    font-weight: bold;
+  }
+  
+  .sw-ticket-links-container a:not(:last-child) {
+    margin-right: 20px;
+  }
+
+  hr {
+    margin-top:50px;
+    margin-bottom:50px;
+  }
