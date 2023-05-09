@@ -33,7 +33,47 @@ Stages include:
 
 The festival will include headline storytelling performances, puppetry, local storytellers, a wide range of local speakers, live music, and "open mic" storytelling circles.
 
-The full festival program will be made available in due course.
+<div style="text-align: center;">
+    <h3 style="margin:40px;">Ticket Prices</h3>
+    <table class="sw-tickets-table">
+        <thead>
+            <tr>
+            <th>Day</th>
+            <th>Adult</th>
+            <th>Child</th>
+            <th>Family</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <td>Saturday</td>
+            <td>Day and Evening (10am-9:30pm): £20<br>Evening: £10</td>
+            <td>Day: 10am-5pm: £10</td>
+            <td>Day: 10am-5pm: £50</td>
+            </tr>
+            <tr>
+            <td>Sunday</td>
+            <td>Day and Evening (10am-5pm): £20</td>
+            <td>Day: 10am-5pm: £10</td>
+            <td>Day: 10am-5pm: £50</td>
+            </tr>
+            <tr>
+            <td>Weekend</td>
+            <td>Weekend: £30</td>
+            <td>Weekend: £15</td>
+            <td>Weekend: £80</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div class="sw-ticket-links-container">
+    <a class="sw-ticket-link" href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">BUY TICKETS HERE</a>
+    <a class="sw-ticket-link" href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">BUY TICKETS HERE</a>
+    <a class="sw-ticket-link" href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">BUY TICKETS HERE</a>
+</div>
+
+<hr/>
 
 *Somewhen Festival is the first in a planned year long series of storytelling events on the Isle of Wight organised by the Island Storytellers.*
 
