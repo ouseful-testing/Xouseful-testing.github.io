@@ -40,8 +40,8 @@ The festival will include headline storytelling performances, puppetry, local st
             <tr>
             <th>Day</th>
             <th>Adult</th>
-            <th>Child</th>
-            <th>Family</th>
+            <th>Child (age 4-15)</th>
+            <th>Family (2+2)</th>
             </tr>
         </thead>
         <tbody>
@@ -71,6 +71,12 @@ The festival will include headline storytelling performances, puppetry, local st
     <a class="sw-ticket-link" href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">BUY TICKETS HERE</a>
     <a class="sw-ticket-link" href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">BUY TICKETS HERE</a>
     <a class="sw-ticket-link" href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">BUY TICKETS HERE</a>
+</div>
+
+<div class="sw-center-div">Festival tickets include entry to the Isle of Wight Steam Railway at Havenstreet, including the <a href="https://iwsteamrailway.co.uk/discover/train-story/">Train Story Discovery Center</a> and the <a href="https://iwsteamrailway.co.uk/discover/the-museum/">Museum</a>. <strong>Tickets for steam train rides must be purchased separately.</strong></div>
+
+<div class="sw-center-div" >
+    <strong><em><a href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">https://www.ticketsource.co.uk/somewhen-storytelling-festival</a></em></strong>
 </div>
 
 <hr/>
