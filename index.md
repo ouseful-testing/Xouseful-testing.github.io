@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div style="text-align: center; margin:30px;" >
+<div class="sw-center-div" >
     <a href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">
         <img src="assets/images/Island_Storytellers_A4_poster_2023_FINAL_compressed.png" alt="Poster" />
     </a>
