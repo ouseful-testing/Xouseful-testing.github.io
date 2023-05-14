@@ -180,10 +180,10 @@ days:
         time_end: '15:30'
   - name: Train Story
     talks:
-      - name: Island Storytellers
+      - name: Word Spoken Song
         time_start: '12:00'
         time_end: '12:15'
-      - name: Island Storytellers
+      - name: Word Spoken Song
         time_start: '12:30'
         time_end: '12:45'
       - name: Island Storytellers
