@@ -12,3 +12,7 @@ links:
 ---
 
 Headline set from Nell Phoenix.
+
+<div class="sw-center-div">
+  <img src="../../assets/images/Nell_Phoenix_Laura_Valentine_Photog.jpg" width=400 /><br/>
+</div>
