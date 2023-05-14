@@ -145,18 +145,18 @@ main.container img {
     // Total available container width is 1110px
 
     // Width of columns with content (default)
-    width: 195px;
-    min-width: 195px;
+    width: 172px;
+    min-width: 172px;
 
     // Spacing between columns
     &.col-space {
-      width: 12px;
-      min-width: 12px;
+      width: 10px;
+      min-width: 10px;
     }
     // Width of first column containing timestamps
     &.col-title {
-      width: 60px;
-      min-width: 60px;
+      width: 55px;
+      min-width: 55px;
     }
   }
 }
