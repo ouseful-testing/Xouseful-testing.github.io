@@ -14,7 +14,7 @@ days:
       - name: Favourite Tales
         time_start: '12:45'
         time_end: '13:45'
-      - name: Joe Plumb - Island Celebrity
+      - name: TBC
         time_start: '14:00'
         time_end: '14:45'
       - name: Art and Rick Duo
@@ -35,6 +35,28 @@ days:
       - name: Ceilidh
         time_start: '19:45'
         time_end: '21:30'
+  - name: Woodland
+    talks:
+      - name: Story Walk with Sue
+        time_start: '13:30'
+        time_end: '14:30'
+      - name: Sketch a Story
+        time_start: '14:45'
+        time_end: '15:30'
+  - name: Library
+    talks:
+      - name: Tell me about poo
+        time_start: '12:15'
+        time_end: '12:45'
+      - name: Dragon Tales
+        time_start: '14:15'
+        time_end: '15:15'
+      - name: Shadow Puppet Drop-in Workshop
+        time_start: '15:45'
+        time_end: '17:00'
+      - name: Story Round
+        time_start: '17:30'
+        time_end: '18:30'
   - name: Outside
     talks:
       - name: Three Suitcases Walkabout
@@ -52,28 +74,6 @@ days:
       - name: Haven Falconry
         time_start: '13:40'
         time_end: '14:20'
-  - name: Library
-    talks:
-      - name: Tell me about poo
-        time_start: '12:15'
-        time_end: '12:45'
-      - name: Dragon Tales
-        time_start: '14:15'
-        time_end: '15:15'
-      - name: Shadow Puppet Drop-in Workshop
-        time_start: '15:45'
-        time_end: '17:00'
-      - name: Story Round
-        time_start: '17:30'
-        time_end: '18:30'
-  - name: Woodland
-    talks:
-      - name: Story Challenge Universal
-        time_start: '13:30'
-        time_end: '14:30'
-      - name: Sketch a Story
-        time_start: '14:45'
-        time_end: '15:30'
   - name: Train Story
     talks:
       - name: Island Storytellers
@@ -135,11 +135,11 @@ days:
       - name: Ian Tovey
         time_start: '12:50'
         time_end: '13:20'
-      - name: Greg Chapman
+      - name: Joe Plumb - Island Celebrity
         time_start: '13:30'
         time_end: '14:00'
-      - name: Story Walk with Sue
-        time_start: '15:30'
+      - name: Greg Chapman
+        time_start: '15:15'
         time_end: '16:00'
   - name: Library
     talks:
