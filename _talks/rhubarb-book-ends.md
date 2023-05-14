@@ -8,3 +8,5 @@ categories:
 ---
 
 Book-Ends costumed show from Rhubarb Theater.
+
+<img src="../../assets/images/rhubarb-walkabout.jpeg" width=400 />
