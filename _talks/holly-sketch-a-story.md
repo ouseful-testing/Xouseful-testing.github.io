@@ -1,5 +1,5 @@
 ---
-name: Arty Tales
+name: Sketch a Story
 speakers:
   - Holly Medland
 categories:

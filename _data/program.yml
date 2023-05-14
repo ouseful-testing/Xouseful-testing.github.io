@@ -71,7 +71,7 @@ days:
       - name: Story Challenge Universal
         time_start: '13:30'
         time_end: '14:30'
-      - name: Arty Tales
+      - name: Sketch a Story
         time_start: '14:45'
         time_end: '15:30'
   - name: Train Story
