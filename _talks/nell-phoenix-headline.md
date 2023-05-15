@@ -24,5 +24,5 @@ Ages: 16 +
 ‘Extraordinary stories, wonderfully performed’ A Spell In Time storytelling Company
 
 <div class="sw-center-div">
-  <img src="../../assets/images/Nell_Phoenix_Laura_Valentine_Photog.jpg" width=400 /><br/>
+  <img src="../../assets/images/Nell_Phoenix_Laura_Valentine_Photog.jpg" width=800 />
 </div>
