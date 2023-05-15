@@ -86,6 +86,8 @@ The festival will include headline storytelling performances, puppetry, local st
     <a class="sw-ticket-link" href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">BUY TICKETS HERE</a>
 </div>
 
+__TRAVEL DISRUPTION__ — *WightFibre are digging up the road through Havenstreet. Diversions are in place, so the safest and most direct route to the Isle of Wight Steam Railway is from Briddlesford Road.*
+
 <div class="sw-center-div">Festival tickets include entry to the Isle of Wight Steam Railway at Havenstreet, including the <a href="https://iwsteamrailway.co.uk/discover/train-story/">Train Story Discovery Center</a> and the <a href="https://iwsteamrailway.co.uk/discover/the-museum/">Museum</a>. <strong>Tickets for steam train rides must be purchased separately.</strong></div>
 
 <div class="sw-center-div" >
