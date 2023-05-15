@@ -37,10 +37,12 @@ Stages include:
     <img width="26.5%" src="assets/images/Cat-with-a-Cough.jpeg" />
 </div>
 
-
 __Saturday schedule runs over two sessions: 10am-5pm (day) and 5pm-9.30pm__. The <em>Saturday day programme</em> includes a rich and varied programme featuring storyteller, shadow puppetry, costumed story theatre, local interest talks and music. The <em>Saturday evening programme</em> (ages 16+ only for the evening session) includes a headline performance from Nell Phoenix, music from Second Time Around, a barn Dance/Ceilidh (with music &amp; caller from the Caulkheads) and fireside tales.
 
 __Sunday schedule runs 10am-6pm__, with the <em>Sunday day programme</em> featuring stories, talks, costumed story theatre, workshops, music and a family friendly matinee headline performance from Nell Phoenix.
+
+__TRAVEL DISRUPTION — *WightFibre are digging up the road through Havenstreet. Diversions are in place, so the safest and most direct route to the Isle of Wight Steam Railway is from Briddlesford Road.*__
+
 
 <div class="sw-ticket-links-container"><a class="sw-ticket-link" href="program/">DRAFT PROGRAMME AVAILABLE HERE <em>(SUBJECT TO CHANGE)</em></a></div>
 
@@ -85,8 +87,6 @@ The festival will include headline storytelling performances, puppetry, local st
     <a class="sw-ticket-link" href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">BUY TICKETS HERE</a>
     <a class="sw-ticket-link" href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">BUY TICKETS HERE</a>
 </div>
-
-__TRAVEL DISRUPTION__ — *WightFibre are digging up the road through Havenstreet. Diversions are in place, so the safest and most direct route to the Isle of Wight Steam Railway is from Briddlesford Road.*
 
 <div class="sw-center-div">Festival tickets include entry to the Isle of Wight Steam Railway at Havenstreet, including the <a href="https://iwsteamrailway.co.uk/discover/train-story/">Train Story Discovery Center</a> and the <a href="https://iwsteamrailway.co.uk/discover/the-museum/">Museum</a>. <strong>Tickets for steam train rides must be purchased separately.</strong></div>
 
