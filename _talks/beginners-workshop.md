@@ -5,7 +5,7 @@ speakers:
 categories:
   - Storytelling
   - Workshop
-  - 7+
+  - 8+
 ---
 
 A beginners' workshop for aspiring tellers. If this weekend has inspired you, why not join this beginners' workshop led by festival headliner Nell Phoenix
