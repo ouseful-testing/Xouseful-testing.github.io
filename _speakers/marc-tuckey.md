@@ -8,3 +8,5 @@ links:
 ---
 
 The founder of *The Isle of Wight Ghost Experience*, an ever popular teller of ghost tales and leader of ghost walks on the Isle of Wight.
+
+<img src="../../assets/images/mark-tuckey-set.jpeg" width=400 />
