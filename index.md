@@ -43,7 +43,6 @@ __Sunday schedule runs 10am-6pm__, with the <em>Sunday day programme</em> featur
 
 __TRAVEL DISRUPTION — *WightFibre are digging up the road through Havenstreet. Diversions are in place, so the safest and most direct route to the Isle of Wight Steam Railway is from Briddlesford Road.*__
 
-
 <div class="sw-ticket-links-container"><a class="sw-ticket-link" href="program/">DRAFT PROGRAMME AVAILABLE HERE <em>(SUBJECT TO CHANGE)</em></a></div>
 
 The festival will include headline storytelling performances, puppetry, local storytellers, a wide range of local speakers, live music, and "open mic" storytelling circles.
