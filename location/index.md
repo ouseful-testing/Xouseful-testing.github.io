@@ -10,6 +10,16 @@ The *Somewhen Storytelling Festival, 2023*, will take place at [Isle of Wight St
 
 <img src="../assets/images/iw_steam_railway_map_compressed.jpg" />
 
+## Car Travel Disruption
+
+__TRAVEL DISRUPTION — *WightFibre are digging up the road through Havenstreet.*__
+
+<div class="sw-center-container">
+  <img src="../assets/images/roadworks.jpg" /> 
+</div>
+
+__*Diversions are likely to still be in place, so the safest and most direct route to the Isle of Wight Steam Railway is from Briddlesford Road.*__
+
 ## Transport Links
 
 - *There are no buses to the Havenstreet Steam Railway but we are exploring the possibility of arranging a community bus service.* 
