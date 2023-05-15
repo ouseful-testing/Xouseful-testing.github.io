@@ -2,6 +2,6 @@
 layout: program
 ---
 
-__THE PROGRAMME IS CURRENTLY UNDER CONSTRUCTION — SUBJECT TO CHANGE__
+__THE PROGRAMME IS NEARLY THERE — BUT MAY STILL BE SUBJECT TO CHANGE__
 
-*Scroll the programme side to side to see all the stages...*
+*If necessary, scroll the programme side to side to make sure see all the stages...*
