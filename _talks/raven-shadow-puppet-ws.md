@@ -5,6 +5,7 @@ speakers:
 categories:
   - Workshop
   - ShadowTheatre
+  - 5+
 ---
 
 An intergenerational playtime - make simple shadow puppets, use them in a made-up story and then take them home with you.

@@ -5,6 +5,7 @@ speakers:
 categories:
   - Music
   - Dance
+  - 16+
 links:
   - name: Homepage
     absolute_url: http://www.caulkheads.co.uk/

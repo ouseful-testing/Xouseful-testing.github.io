@@ -5,6 +5,7 @@ speakers:
 categories:
   - Storytelling
   - ShadowTheatre
+  - 5+
 ---
 
 Two tales told in words, song and shadow from Orkney and China about how to tackle two very different types of elemental dragon - one dragon is malevolent, while the other is benevolent so which is which?

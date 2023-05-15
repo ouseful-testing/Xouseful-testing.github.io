@@ -5,6 +5,7 @@ speakers:
 categories:
   - Storytelling
   - Storyround
+  - 8+
 ---
 
 An open storytelling session for tellers and listeners alike.
