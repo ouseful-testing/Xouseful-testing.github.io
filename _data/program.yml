@@ -51,7 +51,7 @@ days:
       - name: Tell me about poo
         time_start: '12:15'
         time_end: '12:45'
-      - name: Dragon Tales
+      - name: Here be dragons...
         time_start: '14:15'
         time_end: '15:15'
       - name: Shadow Puppet Drop-in Workshop
