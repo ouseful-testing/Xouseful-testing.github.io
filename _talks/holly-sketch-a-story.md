@@ -8,3 +8,5 @@ categories:
 ---
 
 See if you can illustrate some, or all, of the short tales Holly Medland will tale, and then share your picture (if you want to!).
+
+<img src="../../assets/images/holly.jpeg" width=400 />
