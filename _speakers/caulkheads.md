@@ -9,3 +9,5 @@ hide: false
 ---
 
 Popular Island based barn dance / Ceildh band.
+
+  <img src="../../assets/images/caulkheads.jpeg" width=400 />
