@@ -20,11 +20,10 @@ Saturday:
 
 Sunday:
 
-- *12.00-12.15* Matt and Mark
-- *12.30-12.45* Matt and Mark
+- *12.00-12.15* Matt and Mark / Word Spoken Song
+- *12.30-12.45* Matt and Mark / Word Spoken Song
 - *14.00-14.15* Bev Barber
 - *14.30-14.45* Sylvia Clare
-
 
 *The Island Storytellers formed in 2007 and are a group of adults from diverse backgrounds keen to keep alive and promote oral storytelling. They meet on a monthly basis, somewhere on the island, with occasional extra events such as arranging visiting storytellers and running storytelling workshops.*
 
