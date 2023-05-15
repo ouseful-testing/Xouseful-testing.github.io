@@ -5,4 +5,6 @@ last_name: Boyd
 
 ---
 
-Popular local speaker.
+A great island champion for ecology and environmental education, we're not sure where this talk will roam, but you can be sure it'll be a journey worth sharing.
+
+<img src="../../assets/images/ian-boyd.jpeg" width=400 />
