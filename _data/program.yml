@@ -46,7 +46,7 @@ days:
       - name: Sketch a Story
         time_start: '14:45'
         time_end: '15:30'
-  - name: Library
+  - name: Freshwater Room
     talks:
       - name: Tell me about poo
         time_start: '12:15'
@@ -144,7 +144,7 @@ days:
       - name: Greg Chapman
         time_start: '15:15'
         time_end: '16:00'
-  - name: Library
+  - name: Freshwater Room
     talks:
       - name: Beginners Storytelling Workshop
         time_start: '10:45'
