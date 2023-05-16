@@ -4,13 +4,17 @@ layout: home
 
 <div class="sw-center-div" >
     <a href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">
-        <img src="assets/images/Island_Storytellers_A4_poster_2023_FINAL_compressed.png" alt="Poster" />
+        <img src="assets/images/Somewhen_poster_2023_FINAL_v2_compressed.png" alt="Poster" />
     </a>
 </div>
+
+A two day, non-camping storytelling festival with storytelling sessions aimed specifically at adults, as well as plenty for families and children too. Several of the sessions will be supported by a signer *(see programme for details)*.
 
 - *Location*: [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk/), Havenstreet, Isle of Wight, UK
 - *Date:* 3rd-4th June 2023 
 - *Time:* 10:00am - late
+
+<div style="text-align: center; font-size:1.5em"><strong>Tickets available <a href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">online</a>, by phone reservation on 07546 121 643, or on the day at the Isle of Wight Steam Railway.</strong></div>
 
 <div class="sw-ticket-links-container">
     <a class="sw-ticket-link" href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">BUY TICKETS HERE</a>
@@ -37,9 +41,13 @@ Stages include:
     <img width="26.5%" src="assets/images/Cat-with-a-Cough.jpeg" />
 </div>
 
+<div style="text-align: center; margin: 15px; font-size: 2.5em"><strong>Tales for all ages (5+, 8+, 16+).</strong></div>
+
 __Saturday schedule runs over two sessions: 10am-5pm (day) and 5pm-9.30pm__. The <em>Saturday day programme</em> includes a rich and varied programme featuring storyteller, shadow puppetry, costumed story theatre, local interest talks and music. The <em>Saturday evening programme</em> (ages 16+ only for the evening session) includes a headline performance from Nell Phoenix, music from Second Time Around, a barn Dance/Ceilidh (with music &amp; caller from the Caulkheads) and fireside tales.
 
 __Sunday schedule runs 10am-6pm__, with the <em>Sunday day programme</em> featuring stories, talks, costumed story theatre, workshops, music and a family friendly matinee headline performance from Nell Phoenix.
+
+<div style="text-align: center; margin: 15px; font-size: 2.5em"><em>Because stories aren't (just) for children.</em></div>
 
 __TRAVEL DISRUPTION — *WightFibre are digging up the road through Havenstreet. Diversions are in place, so the safest and most direct route to the Isle of Wight Steam Railway is from Briddlesford Road.*__
 
@@ -88,6 +96,8 @@ The festival will include headline storytelling performances, puppetry, local st
 </div>
 
 <div class="sw-center-div">Festival tickets include entry to the Isle of Wight Steam Railway at Havenstreet, including the <a href="https://iwsteamrailway.co.uk/discover/train-story/">Train Story Discovery Center</a> and the <a href="https://iwsteamrailway.co.uk/discover/the-museum/">Museum</a>. <strong>Tickets for steam train rides must be purchased separately.</strong></div>
+
+__Need transport?__ We *may* be able to help: phone 07546 121 643 for details.
 
 <div class="sw-center-div" >
     <strong><em><a href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">https://www.ticketsource.co.uk/somewhen-storytelling-festival</a></em></strong>
