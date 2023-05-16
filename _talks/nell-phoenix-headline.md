@@ -21,6 +21,8 @@ Over a vast swath of northern Earth,  in a cold and a snow-blinding landscape, t
 
 Nell Phoenix revels in the earthy humour and passions of these primal stories; peopled with unconventional families, the desperate and lonely-hearted, and elderly relatives with their misguided attempts to assist.
 
+__This performance will be signed by [Mary Connell](../speakers/mary-connell-signer/).__
+
 Ages: 16 +
 
 ‘Extraordinary stories, wonderfully performed’ A Spell In Time storytelling Company

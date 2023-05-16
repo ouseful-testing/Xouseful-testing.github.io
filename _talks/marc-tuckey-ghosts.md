@@ -11,4 +11,6 @@ hide: false
 
 You do believe in ghosts, don't you...?
 
+__This performance will be signed by [Mary Connell](../speakers/mary-connell-signer/).__
+
 <img src="../../assets/images/mark-tuckey-set.jpeg" width=400 />
