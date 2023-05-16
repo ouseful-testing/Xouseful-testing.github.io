@@ -95,7 +95,7 @@ The festival will include headline storytelling performances, puppetry, local st
 
 <hr/>
 
-*Somewhen Festival is the first in a planned year long series of storytelling events on the Isle of Wight organised by the Island Storytellers.*
+*Somewhen Festival is the first in a planned year long series of [Somewhenever storytelling](https://somewhen.org.uk/) events on the Isle of Wight, organised by the Island Storytellers, and supported by an Arts Council National Lottery Project Grant.*
 
 
 Facebook: [SomewhenStorytellingFestival](https://www.facebook.com/SomewhenStorytellingFestival)
