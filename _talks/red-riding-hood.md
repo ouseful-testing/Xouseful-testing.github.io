@@ -4,7 +4,9 @@ speakers:
   - Kirsty Rhubarb
 categories:
   - Storytelling
+  - Signed performance
+  - 5+
 
 ---
 
-Kirsty from Rhubabrb theatre tells some family favourites - *Little Red Riding Hood* and *Goldilocks*
+Kirsty from Rhubarb theatre tells some family favourites - *Little Red Riding Hood* and *Goldilocks*

@@ -5,7 +5,8 @@ speakers:
 categories:
   - Talk
   - Local museum
-  - 5+
+  - Signed performance
+  - Ages 5+
 ---
 
 If you've ever wondered about poo... a talk from the curators of the Sandown-based National Poo Museum.

@@ -4,6 +4,8 @@ speakers:
   - Nell Phoenix
 categories:
   - Storytelling
+  - Signed performance
+  - Ages 5+
 links:
   - name: Homepage
     icon: video

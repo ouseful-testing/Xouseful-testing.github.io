@@ -4,7 +4,7 @@ speakers:
   - Rhubarb Theatre
 categories:
   - Storytelling
-  - 5+
+  - Ages 5+
 ---
 
 With a rickety old book cart and some novel ideas, surprises leap off every page wherever our papery pals roam.  Join our book-bonkers buddies as they act out tales of whales, bonkers bears and manic monsters. Be amazed as they twist fantastic adventures of pathetic pirates, merry musketeers and hairy hairdressers.

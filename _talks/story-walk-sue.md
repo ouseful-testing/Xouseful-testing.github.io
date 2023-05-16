@@ -5,7 +5,7 @@ speakers:
 categories:
   - Storywalk
   - Storytelling
-  - 5+
+  - Ages 5+
 ---
 
 __A (story) Walk on the Wild Side__

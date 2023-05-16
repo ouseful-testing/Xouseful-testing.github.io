@@ -4,7 +4,7 @@ speakers:
   - Tony Monty Hirst
 categories:
   - Storytelling
-  - 8+
+  - Ages 8+
 ---
 
 Come and here some favourite tales of Island-based storyteller, and member of 'Tis Tales, Tony "Monty" Hirst...

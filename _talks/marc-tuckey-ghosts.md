@@ -4,7 +4,8 @@ speakers:
   - Marc Tuckey
 categories:
   - Storytelling
-  - 8+
+  - Signed performance
+  - Ages 8+
 hide: false
 ---
 

@@ -4,7 +4,7 @@ speakers:
   - Travelling Talesman
 categories:
   - Storytelling
-  - 5+
+  - Ages 5+
 ---
 
 Myths, legends, and folktales... The Travelling Talesman makes it over from the West Country to the Island, bringing a selection of tales for all ages to our first Somewhen Stroytelling Festival.
