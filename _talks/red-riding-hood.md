@@ -11,4 +11,4 @@ categories:
 
 Kirsty from Rhubarb theatre tells some family favourites - *Little Red Riding Hood* and *Goldilocks*.
 
-__This performance will be signed by [Mary Connell](../speakers/mary-connell-signer/).__
+__This performance will be signed by [Mary Connell](../../speakers/mary-connell-signer/).__

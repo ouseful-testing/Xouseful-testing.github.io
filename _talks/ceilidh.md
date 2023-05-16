@@ -14,6 +14,6 @@ links:
 
 Rounding off the festival, a chance to let your hair down and come together for a bit of a cat-herding dance led by *The Caulkheads* barn dance / ceilidh band.
 
-__This performance will be signed by [Mary Connell](../speakers/mary-connell-signer/).__
+__This performance will be signed by [Mary Connell](../../speakers/mary-connell-signer/).__
 
 <img src="../../assets/images/caulkheads.jpeg" width=400 />
