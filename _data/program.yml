@@ -49,6 +49,9 @@ days:
       - name: Sketch a Story
         time_start: '14:45'
         time_end: '15:30'
+      - name: The Girl - Headgear Unspecified
+        time_start: '16:00'
+        time_end: '16:45'
   - name: Freshwater Room
     talks:
       - name: Tell me about poo
