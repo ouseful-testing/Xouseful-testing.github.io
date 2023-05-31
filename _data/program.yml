@@ -147,9 +147,6 @@ days:
       - name: Ian Tovey
         time_start: '12:50'
         time_end: '13:20'
-      - name: Joe Plumb - Island Celebrity
-        time_start: '13:30'
-        time_end: '14:00'
       - name: Greg Chapman
         time_start: '15:15'
         time_end: '16:00'
