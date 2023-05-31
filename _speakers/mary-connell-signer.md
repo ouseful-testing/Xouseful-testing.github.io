@@ -2,10 +2,11 @@
 name: Mary Connell
 first_name: 
 last_name: Mary Connell
-
 ---
 
-Mary Connell is a qualified  BSL interpreter with over 30 years experience. We're thrilled she'll be joining us to interpret several of the performances over the weeked.
+Mary Connell, BSL Interpreter whose career has featured being regular interpreter for the BBC News and winning BBC Communicator of the Year alongside signing countless shows for many  London theatres including opera and for Shakespeare's Globe Theatre, will be bringing to life the words of many of our storytellers for Deaf BSL users  at this year's Festival.
+
+We're thrilled she'll be joining us to interpret several of the performances over the weeked.
 
 Signed performances will all be in the Event Barn unless otherwise stated.
 
