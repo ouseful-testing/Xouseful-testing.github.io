@@ -4,4 +4,5 @@ first_name: Ian
 last_name: Tovey
 
 ---
-Gigging storyteller from the Big Island...
+
+Regular tale teller at Heads & Tales, Ringwood, and Southampton Storytellers. Ian Tovey's repertoire includes traditional stories from the UK and Northern Europe, with a sideline in Greek myths...

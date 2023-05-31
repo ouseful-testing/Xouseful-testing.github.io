@@ -144,8 +144,8 @@ days:
       - name: Grimm Tales
         time_start: '12:00'
         time_end: '12:45'
-      - name: Ian Tovey
-        time_start: '12:50'
+      - name: Ballads Without Notes
+        time_start: '12:45'
         time_end: '13:20'
       - name: History of Magic (In Two Parts)
         time_start: '15:15'
