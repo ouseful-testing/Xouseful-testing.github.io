@@ -89,9 +89,10 @@ conference:
         relative_url: /location/
       - name: Print Programme
         relative_url: /print-programme/
-      - name: Crew
-        relative_url: /crew/
-        disabled: true
+#      - name: Crew
+#        relative_url: /crew/
+#        disabled: true
+#        hidden: true
 #      - name: Register/Submit Abstract
 #        #relative_url: /register/
 #        absolute_url: 'https://docs.google.com/forms/d/e/1FAIpQLSeDlADcAg67SqH-oKPWU1LCDTU1WiNBEPfftLJnPFGz-oc_Ew/viewform?usp=sf_link'
