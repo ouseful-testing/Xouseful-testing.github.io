@@ -109,7 +109,7 @@ days:
   rooms:
   - name: Event Barn
     talks:
-      - name: Ukelele Band
+      - name: The Messed Up Plucker
         time_start: '10:30'
         time_end: '11:00'
       - name: Greg Chapman
