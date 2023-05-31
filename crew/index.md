@@ -3,8 +3,11 @@ __Information and resources for set-up crew__
 
 ## Signage
 
-
 - [printable PDF (download link)](../assets/signage/A3-Signs-4.pdf)
+
+<div align="center" style="margin:50px">
+  <iframe src="https://docs.google.com/gview?url=https://somewhen.org.uk/somewhen-festival-2023/assets/signage/A3-Signs-4.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+</div>
 
 ## Printable programme pages
 
