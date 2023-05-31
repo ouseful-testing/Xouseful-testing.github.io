@@ -1,8 +1,9 @@
 ---
-name: Greg Chapman
+name: History of Magic (In Two Parts)
 speakers:
   - Greg Chapman
 categories:
+  - Talk
   - Storytelling
   - Magic
 hide: false

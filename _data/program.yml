@@ -112,7 +112,7 @@ days:
       - name: The Messed Up Plucker
         time_start: '10:30'
         time_end: '11:00'
-      - name: Greg Chapman
+      - name: History of Magic (In Two Parts)
         time_start: '11:15'
         time_end: '11:45'
       - name: Red Riding Hood and Goldilocks
@@ -147,7 +147,7 @@ days:
       - name: Ian Tovey
         time_start: '12:50'
         time_end: '13:20'
-      - name: Greg Chapman
+      - name: History of Magic (In Two Parts)
         time_start: '15:15'
         time_end: '16:00'
   - name: Freshwater Room
