@@ -103,6 +103,18 @@ __Need transport?__ We *may* be able to help: phone 07546 121 643 for details.
     <strong><em><a href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">https://www.ticketsource.co.uk/somewhen-storytelling-festival</a></em></strong>
 </div>
 
+<div class="sw-center-div" >
+
+  <img src="./assets/images/somewhen-23-prog-sat-a-tiny.jpeg" width=400 /> 
+
+  <img src="./assets/images/somewhen-23-prog-sat-b-eve-tiny.jpeg" width=400 /> 
+
+  <img src="./assets/images/somewhen-23-prog-sun-a-tiny.jpeg" width=400 /> 
+
+  <img src="./assets/images/somewhen-23-prog-sun-b-tiny.jpeg" width=400 /> 
+
+</div>
+
 <hr/>
 
 *Somewhen Festival is the first in a planned year long series of [Somewhenever storytelling](https://somewhen.org.uk/) events on the Isle of Wight, organised by the Island Storytellers, and supported by an Arts Council National Lottery Project Grant.*
