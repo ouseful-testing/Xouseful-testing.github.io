@@ -10,11 +10,21 @@ layout: home
 
 A two day, non-camping storytelling festival with storytelling sessions aimed specifically at adults, as well as plenty for families and children too. Several of the sessions will be supported by a signer *(see programme for details)*.
 
+<div style="text-align: center; margin: 15px; font-size: 2.5em"><em>Spoken not read...</em></div>
+
 - *Location*: [Isle of Wight Steam Railway](https://iwsteamrailway.co.uk/), Havenstreet, Isle of Wight, UK
-- *Date:* 3rd-4th June 2023 
+- *Date:* 3rd-4th June 2023
 - *Time:* 10:00am - late
 
 <div style="text-align: center; font-size:1.5em"><strong>Tickets available <a href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">online</a>, by phone reservation on 07546 121 643, or on the day at the Isle of Wight Steam Railway.</strong></div>
+
+<div style="text-align: center; margin:20px; font-size:1.2em; border-style:dashed; border-color:#1B965B; padding:5px">
+<em>Hear one of the festival organisers, Sue Bailey, chatting about the festival on Isle of Wight Radio (June 1st, 2023)</em><br/><br/>
+    <audio controls>
+        <source src="assets/audio/sue-iwradio-somewhen-01-06-23.mp4" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</div>
 
 <div class="sw-ticket-links-container">
     <a class="sw-ticket-link" href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">BUY TICKETS HERE</a>
@@ -43,7 +53,7 @@ Stages include:
 
 <div style="text-align: center; margin: 15px; font-size: 2.5em"><strong>Tales for all ages (5+, 8+, 16+).</strong></div>
 
-__Saturday schedule runs over two sessions: 10am-5pm (day) and 5pm-9.30pm__. The <em>Saturday day programme</em> includes a rich and varied programme featuring storyteller, shadow puppetry, costumed story theatre, local interest talks and music. The <em>Saturday evening programme</em> (ages 16+ only for the evening session) includes a headline performance from Nell Phoenix, music from Second Time Around, a barn Dance/Ceilidh (with music &amp; caller from the Caulkheads) and fireside tales.
+__Saturday schedule runs over two sessions: 10am-5pm (day) and 5pm-9.30pm__. The <em>Saturday day programme</em> includes a rich and varied programme featuring storytellers, shadow puppetry, costumed story theatre, local interest talks and music. The <em>Saturday evening programme</em> (ages 16+ only for the evening session) includes a headline performance from Nell Phoenix, music from Second Time Around, a barn Dance/Ceilidh (with music &amp; caller from the Caulkheads) and fireside tales.
 
 __Sunday schedule runs 10am-6pm__, with the <em>Sunday day programme</em> featuring stories, talks, costumed story theatre, workshops, music and a family friendly matinee headline performance from Nell Phoenix.
 
