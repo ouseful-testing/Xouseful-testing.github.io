@@ -109,7 +109,7 @@ The festival will include headline storytelling performances, puppetry, local st
 
 <div class="sw-center-div">Festival tickets include entry to the Isle of Wight Steam Railway at Havenstreet, including the <a href="https://iwsteamrailway.co.uk/discover/train-story/">Train Story Discovery Center</a> and the <a href="https://iwsteamrailway.co.uk/discover/the-museum/">Museum</a>. <strong>Tickets for steam train rides must be purchased separately.</strong></div>
 
-__Need transport?__ We *may* be able to help: phone 07546 121 643 for details.
+{% include somewhen-partials/festival-bus.html %}
 
 <div class="sw-center-div" >
     <strong><em><a href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">https://www.ticketsource.co.uk/somewhen-storytelling-festival</a></em></strong>
