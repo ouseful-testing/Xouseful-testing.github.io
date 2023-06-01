@@ -32,6 +32,8 @@ A two day, non-camping storytelling festival with storytelling sessions aimed sp
     <a class="sw-ticket-link" href="https://www.ticketsource.co.uk/somewhen-storytelling-festival">BUY TICKETS HERE</a>
 </div>
 
+<div style="text-align: center; margin: 15px; font-size: 1.2em; border-style:dashed; border-color:#1B965B; padding:5px"><strong>(FREE) FESTIVAL BUS - early morning pickup and end of day drop off in Freshwater, shuttle bus between Havenstreet and Cineworld car park, Newport, throughout the day.</strong> <em><a href="./location">Bus details here.</a></em></div>
+
 <div style="margin:20px;">The <strong>Somewhen Storytelling Festival</strong> is a two day, non-camping storytelling festival running several stages at the Havenstreet Steam Railway, Isle of Wight, on the first weekend in June, 2023.</div>
 
 <div class="sw-center-container">

@@ -138,6 +138,11 @@ conference:
       main_only: false
       text: |
         There are road closures in Havenstreet — access to the festival site is from the Briddlesford Road
+    - title: (Free) Festival Bus (Freshwater — Newport — Havenstreet)
+      color: success
+      main_only: false
+      text: |
+        We are running a shuttle bus between Nwport and Havenstreet, with early/late drop off in Freshwater. See Location page for details. 
 
   # Live indications
 #  live:
