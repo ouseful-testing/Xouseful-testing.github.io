@@ -134,7 +134,7 @@ conference:
 #     text: |
 #       If you would like to volunteer to help run the festival, please email volunteers@tistales.org.uk
     - title: Travel disruption
-      color: alert
+      color: warning
       main_only: false
       text: |
         There are road closures in Havenstreet — access to the festival site is from the Briddlesford Road
