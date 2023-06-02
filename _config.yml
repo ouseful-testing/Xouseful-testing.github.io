@@ -142,7 +142,7 @@ conference:
       color: success
       main_only: false
       text: |
-        We are running a shuttle bus between Nwport and Havenstreet, with early/late drop off in Freshwater. See Location page for details. 
+        We are running a shuttle bus between Newport and Havenstreet, with early/late drop off in Freshwater. See Location page for details. 
 
   # Live indications
 #  live:
